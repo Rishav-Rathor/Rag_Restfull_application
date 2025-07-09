@@ -1,0 +1,7 @@
+langchain
+pdfplumber
+sentence-transformers
+pymilvus
+python-dotenv
+openai
+huggingface-hub 
